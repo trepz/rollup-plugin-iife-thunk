@@ -1,6 +1,6 @@
 {
   "name": "rollup-plugin-iife-thunk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Wrap rollup iife output for delayed execution",
   "main": "dist/rollup-plugin-iife-thunk.cjs.js",
   "scripts": {
