@@ -1,5 +1,5 @@
 {
-  "name": "rollup-iife-thunk",
+  "name": "rollup-plugin-iife-thunk",
   "version": "1.0.0",
   "description": "Wrap rollup iife output for delayed execution",
   "main": "index.js",
