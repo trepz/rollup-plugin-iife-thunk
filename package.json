@@ -14,6 +14,8 @@
   "author": "trepz",
   "license": "MIT",
   "devDependencies": {
-    "rollup": "^1.13.1"
+    "rollup": "^1.13.1",
+    "rollup-plugin-typescript2": "^0.21.1",
+    "typescript": "^3.5.1"
   }
 }
