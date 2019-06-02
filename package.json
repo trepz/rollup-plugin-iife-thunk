@@ -2,7 +2,7 @@
   "name": "rollup-plugin-iife-thunk",
   "version": "1.0.0",
   "description": "Wrap rollup iife output for delayed execution",
-  "main": "index.js",
+  "main": "dist/rollup-plugin-iife-thunk.cjs.js",
   "scripts": {
     "build": "rollup -c",
     "build:watch": "rollup -cw"
