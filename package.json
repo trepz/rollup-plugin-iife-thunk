@@ -4,7 +4,8 @@
   "description": "Wrap rollup iife output for delayed execution",
   "main": "index.js",
   "scripts": {
-    "build": "rollup -c"
+    "build": "rollup -c",
+    "build:watch": "rollup -cw"
   },
   "files": [
     "dist",
